@@ -291,7 +291,7 @@ gsap.globalTimeline.timeScale(1.5);    //  圣诞树开始绘画时小光点动�
 
 setTimeout(function () {
   var element = document.getElementById("header");
-  element.style.width = '400px'
+  element.style.width = '700px'
   element.innerHTML = "付梦雅<br />" + "<br />&nbsp;圣诞节快乐呀!";
 
 
